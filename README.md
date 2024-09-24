@@ -85,6 +85,8 @@ Note: **DO NOT COMMIT THE README FILE**. The readme file will be overwritten onc
 
 - [js print](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/JavaScript/Web/js%20print%20(db47fbc2-2aa7-48d9-9145-f9a6dc203502).md)
 
+- [loop js](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/JavaScript/Web/loop%20js%20(21bd98ee-deb6-4922-8378-9e77a95bef0e).md)
+
 - [print js](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/JavaScript/Web/print%20js%20(11ef9099-46a4-4a3a-945f-9cec08047756).md)
 
 - [print js](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/JavaScript/Web/print%20js%20(75224d1c-4f1b-4467-9557-72338e1efd43).md)
