@@ -92,14 +92,14 @@ async function extractMdContent(filePath: any) {
   // console.log("Final title:", title);
   // console.log("Final description:", description);
 
-  const author = await getAuthor(filePath)
+  // const author = await getAuthor(filePath)
 
   // console.log("=================================================================")
 
   return {
     title: title || null,
     description: description || null,
-    author: author || null,
+    // author: author || null,
   }
 }
 
@@ -109,23 +109,23 @@ async function processMarkdownFiles(directory: any) {
 
   for (const filePath of mdFiles) {
     console.log(`Processing file: ${filePath}`)
-    const { title, description, author } = await extractMdContent(filePath)
+    const { title, description } = await extractMdContent(filePath)
     // Replace backslashes with forward slashes
     const normalizedPath = filePath.replace(/\\/g, '/')
 
     // Determine the source based on the directory
-    let source = 'INTERNAL' // Default source
+    let source = 'Internal' // Default source
+
     if (normalizedPath.includes('/AI/')) {
       source = 'AI'
     } else if (normalizedPath.includes('/Web/')) {
-      source = 'EXTERNAL'
+      source = 'Web'
     }
 
     filesData.push({
       title: title,
       desc: description,
       path: normalizedPath,
-      author: author,
       source: source, // Set source based on directory
     })
   }
