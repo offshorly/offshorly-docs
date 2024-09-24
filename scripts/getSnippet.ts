@@ -92,14 +92,14 @@ async function extractMdContent(filePath: any) {
   // console.log("Final title:", title);
   // console.log("Final description:", description);
 
-  // const author = await getAuthor(filePath)
+  const author = await getAuthor(filePath)
 
   // console.log("=================================================================")
 
   return {
     title: title || null,
     description: description || null,
-    // author: author || null,
+    author: author || null,
   }
 }
 
