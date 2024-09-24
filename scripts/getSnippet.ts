@@ -158,7 +158,7 @@ async function main() {
     const resObj = await response.json()
 
     if (!response.ok) {
-      throw new Error(`Failed to send data: ${resObj.stringify}`)
+      throw new Error(`Failed to send data: ${JSON.stringify(resObj)}`)
     }
 
     console.log('Data sent successfully.')
