@@ -109,7 +109,7 @@ async function processMarkdownFiles(directory: any) {
 
   for (const filePath of mdFiles) {
     console.log(`Processing file: ${filePath}`)
-    const { title, description, author } = await extractMdContent(filePath)
+    const { title, description } = await extractMdContent(filePath)
     // Replace backslashes with forward slashes
     const normalizedPath = filePath.replace(/\\/g, '/')
 
@@ -126,7 +126,7 @@ async function processMarkdownFiles(directory: any) {
       title: title,
       desc: description,
       path: normalizedPath,
-      author: author,
+      // author: author,
       source: source, // Set source based on directory
     })
   }
