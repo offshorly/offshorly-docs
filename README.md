@@ -61,6 +61,8 @@ Note: **DO NOT COMMIT THE README FILE**. The readme file will be overwritten onc
 
 ##### _AI_
 
+- [Print in Cobol](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/Cobol/AI/Print%20in%20Cobol%20(49d33a71-7cdf-40dc-90de-98eda2ce73d6).md)
+
 - [Print in Cobol](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/Cobol/AI/Print%20in%20Cobol%20(52a3a887-57f6-4a8b-991f-04422abc7b67).md)
 
 #### Database
@@ -76,6 +78,14 @@ Note: **DO NOT COMMIT THE README FILE**. The readme file will be overwritten onc
 ##### _AI_
 
 - [Print in Java](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/Java/AI/Print%20in%20Java%20(7ca999d6-e61a-4395-8904-e797d10dbbd5).md)
+
+#### JavaScript
+
+##### _Web_
+
+- [print js](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/JavaScript/Web/print%20js%20(11ef9099-46a4-4a3a-945f-9cec08047756).md)
+
+- [print js](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/JavaScript/Web/print%20js%20(75224d1c-4f1b-4467-9557-72338e1efd43).md)
 
 #### Packages
 
@@ -104,6 +114,10 @@ Note: **DO NOT COMMIT THE README FILE**. The readme file will be overwritten onc
 - [Authentication in Fast API](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/Python/AI/Authentication%20in%20Fast%20API%20(2d561039-980c-4897-b1f5-fbc69f42875f).md)
 
 - [Authentication in Flask](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/Python/AI/Authentication%20in%20Flask%20(d7611187-7f84-482b-8f61-d484b4eaf3ca).md)
+
+##### _Web_
+
+- [For Loop in Python](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/Python/Web/For%20Loop%20in%20Python%20(4aa0a837-f3cf-49ea-bc55-91073525d6b7).md)
 
 ##### _ai_generated_
 
