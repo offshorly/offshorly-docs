@@ -119,6 +119,8 @@ Note: **DO NOT COMMIT THE README FILE**. The readme file will be overwritten onc
 
 - [For Loop in Python](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/Python/Web/For%20Loop%20in%20Python%20(4aa0a837-f3cf-49ea-bc55-91073525d6b7).md)
 
+- [print py](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/Python/Web/print%20py%20(665cd50c-e6d8-4336-b863-87c8a60bbcb2).md)
+
 ##### _ai_generated_
 
 - [print in python](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/Python/ai_generated/print%20in%20python%20(9511d8ee-36e9-48fc-add9-33f99f2cfc43).md)
