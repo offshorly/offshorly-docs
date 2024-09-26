@@ -61,6 +61,8 @@ Note: **DO NOT COMMIT THE README FILE**. The readme file will be overwritten onc
 
 - [Authentication in Express](https://github.com/offshorly/offshorly-docs/tree/main/content/JavaScript/Web/Authentication%20in%20Express%20(f62186e0-1d99-4473-b8d3-4b21c6104754).md)
 
+- [loop in js](https://github.com/offshorly/offshorly-docs/tree/main/content/JavaScript/Web/loop%20in%20js%20(df7dc5bf-9329-4d44-8f90-8e98298acd03).md)
+
 #### Python
 
 ##### _AI_
