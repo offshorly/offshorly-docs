@@ -65,6 +65,8 @@ Note: **DO NOT COMMIT THE README FILE**. The readme file will be overwritten onc
 
 ##### _AI_
 
+- [Authentication in FastAPI](https://github.com/offshorly/offshorly-docs/tree/main/content/Python/AI/Authentication%20in%20FastAPI%20(f7242414-ebf7-4e60-a22a-632b4c59ef8c).md)
+
 - [How to setup Postgres in Docker](https://github.com/offshorly/offshorly-docs/tree/main/content/Python/AI/How%20to%20setup%20Postgres%20in%20Docker%20(1f6bdb55-2d5f-4e98-9de3-304897dc0a6b).md)
 
 - [Print in Python](https://github.com/offshorly/offshorly-docs/tree/main/content/Python/AI/Print%20in%20Python%20(196fdc1c-9adc-46a4-8534-3c3d829e937b).md)
