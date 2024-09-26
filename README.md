@@ -45,5 +45,14 @@ Note: **DO NOT COMMIT THE README FILE**. The readme file will be overwritten onc
 
 ### Table of Contents
 
+#### JavaScript
+
+##### _AI_
+
+- [Print in Javascript](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/JavaScript/AI/Print%20in%20Javascript%20(a5279ac8-0c83-47f5-a421-c698713f8233).md)
+
+##### _Web_
+
+- [Authentication in Express](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/JavaScript/Web/Authentication%20in%20Express%20(f62186e0-1d99-4473-b8d3-4b21c6104754).md)
 - [placeholder](https://github.com/jasonoffshorlydev/offshorly-docs/tree/main/content/placeholder.md)
   
