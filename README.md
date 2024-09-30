@@ -71,5 +71,7 @@ Note: **DO NOT COMMIT THE README FILE**. The readme file will be overwritten onc
 
 - [How to setup Postgres in Docker](https://github.com/offshorly/offshorly-docs/tree/main/content/Python/AI/How%20to%20setup%20Postgres%20in%20Docker%20(1f6bdb55-2d5f-4e98-9de3-304897dc0a6b).md)
 
+- [Initial Setup of Flask Application with a Login Endpoint](https://github.com/offshorly/offshorly-docs/tree/main/content/Python/AI/Initial%20Setup%20of%20Flask%20Application%20with%20a%20Login%20Endpoint%20(5d090479-6053-444d-ad2b-d6e5afff84d1).md)
+
 - [Print in Python](https://github.com/offshorly/offshorly-docs/tree/main/content/Python/AI/Print%20in%20Python%20(196fdc1c-9adc-46a4-8534-3c3d829e937b).md)
   
