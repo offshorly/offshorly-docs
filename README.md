@@ -55,6 +55,8 @@ Note: **DO NOT COMMIT THE README FILE**. The readme file will be overwritten onc
 
 ##### _AI_
 
+- [Implementing Crud Operations using NodeJS, Express, and Mongoose](https://github.com/offshorly/offshorly-docs/tree/main/content/JavaScript/AI/Implementing%20Crud%20Operations%20using%20NodeJS,%20Express,%20and%20Mongoose%20(6bc0ac28-570e-47c5-b923-ef8acbc7b170).md)
+
 - [Print in Javascript](https://github.com/offshorly/offshorly-docs/tree/main/content/JavaScript/AI/Print%20in%20Javascript%20(a5279ac8-0c83-47f5-a421-c698713f8233).md)
 
 ##### _Web_
