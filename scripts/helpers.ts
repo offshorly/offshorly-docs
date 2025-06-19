@@ -59,9 +59,9 @@ function generateGitHubMarkdownList(
         })
         .join('\n')
 
-      markdown += `\n\n${items}\n`
+      markdown += `\n${items}\n`
     } else {
-      markdown += `\n\n${isSubCategory ? `##### _${key.replaceAll('#', '\\#')}_` : `#### ${key.replaceAll('#', '\\#')}`}\n`
+      markdown += `\n${isSubCategory ? `##### _${key.replaceAll('#', '\\#')}_` : `#### ${key.replaceAll('#', '\\#')}`}\n`
       markdown += generateGitHubMarkdownList(
         obj[key] as GroupedData,
         `${pathPrefix}/${key}`,
@@ -70,15 +70,7 @@ function generateGitHubMarkdownList(
     }
   })
 
-  return markdown
-}
-
-export {
-  generateGitHubMarkdownList,
-  generateVSCodeLink,
-  groupByCategories,
-  hasAnyArrayWithValues,
-  installVsCodeExtension,
+  return markdown.trim()
 }
 
 async function installVsCodeExtension(extensions: string[]) {
@@ -92,4 +84,12 @@ async function installVsCodeExtension(extensions: string[]) {
   } catch (error) {
     console.error('Error during installation:', error)
   }
+}
+
+export {
+  generateGitHubMarkdownList,
+  generateVSCodeLink,
+  groupByCategories,
+  hasAnyArrayWithValues,
+  installVsCodeExtension,
 }

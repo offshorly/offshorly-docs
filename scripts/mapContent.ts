@@ -10,11 +10,9 @@ function mapContent() {
     'https://github.com/offshorly/offshorly-docs/tree/main/content',
   )
 
-  const markdown = `
-### Table of Contents
+  const markdown = `### Table of Contents
 
 ${generatedMarkdownList.trim()}
-
 `
 
   return markdown
