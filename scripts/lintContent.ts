@@ -8,8 +8,10 @@ async function lintContent(paths: string[]) {
         line_length: 250,
       },
       MD024: {
-        "siblings_only": true
-      }
+        siblings_only: true,
+      },
+      MD032: false, // Disable "blanks-around-lists"
+      MD022: false, // Disable "blanks-around-headings"
     },
   }
 
