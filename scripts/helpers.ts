@@ -59,9 +59,16 @@ function generateGitHubMarkdownList(
         })
         .join('\n')
 
+      // Ensure the list is surrounded by blank lines
       markdown += `\n${items}\n`
     } else {
-      markdown += `\n${isSubCategory ? `##### _${key.replaceAll('#', '\\#')}_` : `#### ${key.replaceAll('#', '\\#')}`}\n`
+      // Ensure heading is surrounded by blank lines
+      markdown += `\n\n${
+        isSubCategory
+          ? `##### _${key.replaceAll('#', '\\#')}_`
+          : `#### ${key.replaceAll('#', '\\#')}`
+      }\n\n`
+
       markdown += generateGitHubMarkdownList(
         obj[key] as GroupedData,
         `${pathPrefix}/${key}`,
