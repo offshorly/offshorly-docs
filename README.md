@@ -45,4 +45,9 @@ Note: **DO NOT COMMIT THE README FILE**. The readme file will be overwritten onc
 
 ### Table of Contents
 
+#### JavaScript
+
+##### _Web_
+
+- [React_Hook](https://github.com/offshorly/offshorly-docs/tree/main/content/JavaScript/Web/React_Hook%20(4fa159ca-0818-46b4-a030-e765c1b443e1).md)
 - [Placeholder](https://github.com/offshorly/offshorly-docs/tree/main/content/Placeholder.md)
