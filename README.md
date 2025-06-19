@@ -46,4 +46,3 @@ Note: **DO NOT COMMIT THE README FILE**. The readme file will be overwritten onc
 ### Table of Contents
 
 - [Placeholder](https://github.com/offshorly/offshorly-docs/tree/main/content/Placeholder.md)
-  
