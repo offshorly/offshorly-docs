@@ -57,3 +57,9 @@ Note: **DO NOT COMMIT THE README FILE**. The readme file will be overwritten onc
 
 - [React_Hook](https://github.com/offshorly/offshorly-docs/tree/main/content/JavaScript/Web/React_Hook%20(4fa159ca-0818-46b4-a030-e765c1b443e1).md)
 - [Placeholder](https://github.com/offshorly/offshorly-docs/tree/main/content/Placeholder.md)
+
+#### React
+
+##### _Web_
+
+- [React_Tailwind](https://github.com/offshorly/offshorly-docs/tree/main/content/React/Web/React_Tailwind%20(27bc2436-30ed-489a-8069-4ea361355aca).md)
