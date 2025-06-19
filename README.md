@@ -45,6 +45,12 @@ Note: **DO NOT COMMIT THE README FILE**. The readme file will be overwritten onc
 
 ### Table of Contents
 
+#### AI
+
+##### _Web_
+
+- [RAG](https://github.com/offshorly/offshorly-docs/tree/main/content/AI/Web/RAG%20(1127d5dc-0e6e-423b-a67a-3ee9e83cb87e).md)
+
 #### JavaScript
 
 ##### _Web_
